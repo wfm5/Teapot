@@ -5,6 +5,8 @@ class AppData
 {
 	bool open;
 	GLFWwindow* window;
+	GLuint vbo;
+
 
 	int Input();
 	int Update();

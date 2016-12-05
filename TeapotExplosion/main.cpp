@@ -4,8 +4,6 @@
 #include <thread>
 #include "AppData.h"
 
-
-
 AppData app;
 
 int main(int argv, char *args[])
